@@ -10,5 +10,3 @@ http://github.com/addrom/bypass/raw/master/QuickShortcutMaker.apk
 https://addrom.com/bypass/
 
 http://addrom.com/bypass/
-
-hanzozninjax@yahoo.com
